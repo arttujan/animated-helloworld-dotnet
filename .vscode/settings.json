@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net5.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/3eea59ed-1f50-4335-b39c-c4c44bc125ac/resourceGroups/.net-group/providers/Microsoft.Web/sites/dotnet-arttujantunen"
+}
